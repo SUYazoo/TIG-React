@@ -1,0 +1,5 @@
+return <Container>
+<Routes>
+  <Route path="/produits" element={<ProduitsPromotions />} />
+</Routes>
+</Container>
